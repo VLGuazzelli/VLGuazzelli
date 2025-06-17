@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi👋, I'm Victoria Guazzelli
+
+
+Data Scientist with a Ph.D. in Mathematics and a strong background in academic research. 
+Specialized in machine learning (supervised and unsupervised), exploratory data analysis, and Python programming.
+Tools like NumPy 🖩, Pandas 🐼, Scikit-learn 🤖, and Matplotlib 📉.
+
 
 <!--
 **VLGuazzelli/VLGuazzelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
